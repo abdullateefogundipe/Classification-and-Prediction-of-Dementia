@@ -1,5 +1,3 @@
-# HDSC-Premiere-Project-Team_PCA-
-
 ## Scope: Health and Medicare
 ## Topic: Classification & Prediction of Dementia
 ## Project Description:
